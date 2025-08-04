@@ -16,6 +16,7 @@ I love spending my time creating something that not only looks good but also per
 
 📈 My GitHub Stats:
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=khpvo&show_icons=true)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=khpvo&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ![](https://komarev.com/ghpvc/?username=khpvo&label=Profile%20views&color=0e75b6&style=flat)
