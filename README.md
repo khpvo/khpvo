@@ -12,6 +12,7 @@
 ### Databases:
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) 
 
+📈 My GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=khpvo&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ![](https://komarev.com/ghpvc/?username=khpvo&label=Profile%20views&color=0e75b6&style=flat)
